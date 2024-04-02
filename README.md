@@ -20,7 +20,7 @@ Este é um simples jogo da adivinhação desenvolvido em Python usando a bibliot
 
 1. Certifique-se de ter Python e Pygame instalados em seu sistema.
 2. Clone ou faça o download deste repositório.
-3. Execute o arquivo `guessing_game.py` para iniciar o jogo.
+3. Execute o arquivo `main.py` para iniciar o jogo.
 4. Digite seu palpite na caixa de entrada e pressione Enter para fazer a suposição.
 5. O jogo fornecerá feedback sobre se o palpite é muito alto, muito baixo ou correto.
 6. Continue fazendo palpites até acertar o número.
